@@ -1,4 +1,4 @@
-UI_CE = {
+UI_CN = {
     UI_optionscreen_binding_BetterElectronics = "高级电子设备",
     UI_optionscreen_binding_Toggle_Remote = "切换首个遥控器",
 	UI_optionscreen_binding_Toggle_Remote1 = "切换第二遥控器",
